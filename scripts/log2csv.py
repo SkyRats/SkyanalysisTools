@@ -14,13 +14,21 @@ TMP_DIR = os.path.join(PROJECT_DIR, 'tmp')
 LOGS_DIR = os.path.join(PROJECT_DIR, 'logs')
 
 
+def check_dir(dir):
+    e = os.path.exists(dir)
+    if not e:
+        print("Creating directory", dir)
+        os.makedirs(dir)
+    return e
+
 def login():
     """Logs in to Google API and returns a service object"""
     creds = None
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
-    token_path = os.path.join(PROJECT_DIR, 'tmp', 'token.json')
+    check_dir(os.path.join(TMP_DIR))
+    token_path = os.path.join(TMP_DIR, 'token.json')
     credentials_path = os.path.join(PROJECT_DIR, 'credentials.json')
     SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly', 'https://www.googleapis.com/auth/drive.file']
 
@@ -94,10 +102,8 @@ def process_ulg(filepath):
     print("Processing", filepath)
     # Check is csv temporary folder exists and is empty
     csv_dir = os.path.join(TMP_DIR, 'csv')
-    if not os.path.exists(csv_dir):
-        print("Creating directory", csv_dir)
-        os.makedirs(csv_dir)
-    elif not os.listdir(csv_dir):
+    e = check_dir(csv_dir)
+    if e and not os.listdir(csv_dir):
         print("Directory", csv_dir, "not empty, deleting all contents")
         for f in os.listdir(csv_dir):
             os.remove(os.path.join(csv_dir, f))
@@ -111,21 +117,20 @@ def process_ulg(filepath):
     filename = os.path.basename(filepath)[:-4]
     for csv in os.listdir(csv_dir):
         log_dir = os.path.join(LOGS_DIR, csv[len(filename)+1:-4])
-        if not os.path.exists(log_dir):
-            os.makedirs(log_dir)
+        check_dir(log_dir)
         # TODO: No momento o programa não confere se o arquivo já existe. O que fazer?
         shutil.move(os.path.join(csv_dir, csv), os.path.join(log_dir, f'{filename}.csv')) 
     # Move ulg to folder
     ulg_dir = os.path.join(LOGS_DIR, 'ulg')
-    if not os.path.exists(ulg_dir):
-        os.makedirs(ulg_dir)
+    check_dir(ulg_dir)
     shutil.move(filepath, os.path.join(ulg_dir, f'{filename}.ulg'))
     print("Done!")
 
 
 def process_all(unprocessed_dir):
     for f in os.listdir(unprocessed_dir):
-        process_ulg(os.path.join(unprocessed_dir, f))
+        if f != ".gitkeep":
+            process_ulg(os.path.join(unprocessed_dir, f))
 
 
 def main():
