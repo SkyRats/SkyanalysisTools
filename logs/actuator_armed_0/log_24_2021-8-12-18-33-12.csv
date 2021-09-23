@@ -1,0 +1,6 @@
+timestamp,armed,prearmed,ready_to_arm,lockdown,manual_lockdown,force_failsafe,in_esc_calibration_mode,soft_stop
+1493049934,1,0,1,0,0,0,0,0
+1493557516,1,0,1,0,0,0,0,0
+1494060558,1,0,1,0,0,0,0,0
+1494516516,0,0,1,0,0,0,0,0
+1495020943,0,0,1,0,0,0,0,0

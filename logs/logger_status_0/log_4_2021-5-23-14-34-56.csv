@@ -1,0 +1,5 @@
+timestamp,total_written_kb,write_rate_kb_s,dropouts,message_gaps,buffer_used_bytes,buffer_size_bytes,type,backend,num_messages
+20698735,0.0,0.0,0,12,57164,65536,0,3,122
+21700603,77.521484,76.60052,0,12,8937,65536,0,3,122
+22701786,105.53711,52.42241,0,12,5626,65536,0,3,122
+23702818,132.47656,43.950268,0,12,3888,65536,0,3,122

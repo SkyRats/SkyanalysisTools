@@ -1,0 +1,8 @@
+timestamp,armed_time_ms,armed,prearmed,ready_to_arm,lockdown,manual_lockdown,force_failsafe,in_esc_calibration_mode,soft_stop
+20638278,20638,1,1,1,0,0,0,0,0
+21140082,20638,1,1,1,0,0,0,0,0
+21459087,20638,1,1,1,0,0,0,0,0
+21968080,20638,1,1,1,0,0,0,0,0
+22474144,20638,1,1,1,0,0,0,0,0
+22816569,0,0,1,1,0,0,0,0,0
+23318242,0,0,1,1,0,0,0,0,0

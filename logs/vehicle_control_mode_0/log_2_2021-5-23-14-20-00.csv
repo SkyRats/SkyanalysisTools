@@ -1,0 +1,15 @@
+timestamp,flag_armed,flag_external_manual_override_ok,flag_control_manual_enabled,flag_control_auto_enabled,flag_control_offboard_enabled,flag_control_rates_enabled,flag_control_attitude_enabled,flag_control_yawrate_override_enabled,flag_control_rattitude_enabled,flag_control_force_enabled,flag_control_acceleration_enabled,flag_control_velocity_enabled,flag_control_position_enabled,flag_control_altitude_enabled,flag_control_climb_rate_enabled,flag_control_termination_enabled,flag_control_fixed_hdg_enabled
+43259980,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43764068,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+44272333,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+44779068,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+45285271,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+45792125,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+46298165,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+46805368,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+47312072,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+47820268,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+48328069,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+48834195,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+49220308,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+49731378,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0

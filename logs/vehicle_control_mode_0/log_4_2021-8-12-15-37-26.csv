@@ -1,0 +1,14 @@
+timestamp,flag_armed,flag_external_manual_override_ok,flag_multicopter_position_control_enabled,flag_control_manual_enabled,flag_control_auto_enabled,flag_control_offboard_enabled,flag_control_rates_enabled,flag_control_attitude_enabled,flag_control_acceleration_enabled,flag_control_velocity_enabled,flag_control_position_enabled,flag_control_altitude_enabled,flag_control_climb_rate_enabled,flag_control_termination_enabled
+16436581,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+16937980,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+17447931,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+17956970,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+18467268,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+18973969,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+19397338,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+19906602,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+20415437,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+20925600,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+21434951,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+21935317,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+22438407,0,0,0,1,0,0,1,1,0,0,0,0,0,0

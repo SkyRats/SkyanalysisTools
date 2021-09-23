@@ -1,0 +1,5 @@
+timestamp,flag_armed,flag_external_manual_override_ok,flag_control_manual_enabled,flag_control_auto_enabled,flag_control_offboard_enabled,flag_control_rates_enabled,flag_control_attitude_enabled,flag_control_yawrate_override_enabled,flag_control_rattitude_enabled,flag_control_force_enabled,flag_control_acceleration_enabled,flag_control_velocity_enabled,flag_control_position_enabled,flag_control_altitude_enabled,flag_control_climb_rate_enabled,flag_control_termination_enabled,flag_control_fixed_hdg_enabled
+275913279,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+276418203,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+276550196,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+277052553,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0

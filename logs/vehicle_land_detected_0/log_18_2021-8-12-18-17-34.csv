@@ -1,0 +1,12 @@
+timestamp,alt_max,freefall,ground_contact,maybe_landed,landed,in_ground_effect,in_descend,has_low_throttle,vertical_movement,horizontal_movement,close_to_ground_or_skipped_check
+546813291,inf,0,1,1,1,1,1,1,0,0,1
+547822252,inf,0,1,1,1,1,1,1,0,0,1
+548826042,inf,0,1,1,1,1,1,1,0,0,1
+549835539,inf,0,1,1,1,1,1,1,0,0,1
+550843809,inf,0,1,1,1,1,1,1,0,0,1
+551853057,inf,0,1,1,1,1,1,1,0,0,1
+552856926,inf,0,1,1,1,1,1,1,0,0,1
+553867174,inf,0,1,1,1,1,1,1,0,0,1
+554874519,inf,0,1,1,1,1,1,1,0,0,1
+555883453,inf,0,1,1,1,1,1,1,0,0,1
+556813751,inf,0,1,1,1,0,0,1,0,0,1

@@ -1,0 +1,4 @@
+timestamp,accel_device_id,gyro_device_id,accel_clipping[0],accel_clipping[1],accel_clipping[2],accel_error_count,gyro_error_count,accel_vibration_metric,gyro_vibration_metric,gyro_coning_vibration,accel_rate_hz,gyro_rate_hz
+275958841,4259850,4325386,0,0,0,0,0,0.0016656765,4.6896937e-05,6.581914e-10,1006,1000
+276059020,4259850,4325386,0,0,0,0,0,0.0016300936,4.5739514e-05,6.0288585e-10,1006,1000
+276965220,4259850,4325386,0,0,0,0,0,0.0010599635,4.6494635e-05,6.250006e-10,1006,1000

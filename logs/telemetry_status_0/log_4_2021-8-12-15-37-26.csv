@@ -1,0 +1,9 @@
+timestamp,data_rate,rate_multiplier,tx_rate_avg,tx_error_rate_avg,tx_message_count,tx_buffer_overruns,rx_rate_avg,rx_message_count,rx_message_lost_count,rx_buffer_overruns,rx_parse_errors,rx_packet_drop_count,rx_message_lost_rate,type,mode,flow_control,forwarding,mavlink_v2,ftp,streams,heartbeat_type_antenna_tracker,heartbeat_type_gcs,heartbeat_type_onboard_controller,heartbeat_type_gimbal,heartbeat_type_adsb,heartbeat_type_camera,heartbeat_component_telemetry_radio,heartbeat_component_log,heartbeat_component_osd,heartbeat_component_obstacle_avoidance,heartbeat_component_vio,heartbeat_component_pairing_manager,heartbeat_component_udp_bridge,heartbeat_component_uart_bridge,avoidance_system_healthy
+16641426,20000.0,1.0,1205.6927,0.0,435,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17334952,20000.0,1.0,1205.6927,0.0,463,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18089156,20000.0,1.0,1301.6958,0.0,482,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18841127,20000.0,1.0,1206.6879,0.0,509,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19596991,20000.0,1.0,1302.8932,0.0,537,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20346516,20000.0,1.0,1302.8932,0.0,564,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21098177,20000.0,1.0,1205.9971,0.0,583,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22603521,20000.0,1.0,1207.0735,0.0,640,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

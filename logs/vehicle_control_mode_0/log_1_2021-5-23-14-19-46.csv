@@ -1,0 +1,12 @@
+timestamp,flag_armed,flag_external_manual_override_ok,flag_control_manual_enabled,flag_control_auto_enabled,flag_control_offboard_enabled,flag_control_rates_enabled,flag_control_attitude_enabled,flag_control_yawrate_override_enabled,flag_control_rattitude_enabled,flag_control_force_enabled,flag_control_acceleration_enabled,flag_control_velocity_enabled,flag_control_position_enabled,flag_control_altitude_enabled,flag_control_climb_rate_enabled,flag_control_termination_enabled,flag_control_fixed_hdg_enabled
+31470560,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+31979180,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+32486162,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+32993068,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+33499103,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+34006067,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+34512121,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+35019110,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+35525171,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+35888319,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+36388504,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+timestamp,timestamp_sample,hover_thrust,hover_thrust_var,accel_innov,accel_innov_var,accel_innov_test_ratio,accel_noise_var,valid
+631971416,631971390,0.5,0.010000003,6.587683,12.193661,0.39544746,5.0,0
