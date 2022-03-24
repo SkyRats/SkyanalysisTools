@@ -87,7 +87,7 @@ def register_log(filepath):
 
     try:
         meta = pd.read_csv(
-            os.path.join(PROJECT_DIR, 'metadata.csv'),
+            os.path.join(LOGS_DIR, 'metadata.csv'),
             index_col='id'
         )
         print("Opened metadata.csv")
@@ -142,7 +142,7 @@ def register_log(filepath):
     
     print("Adding row to metadata.csv")
     meta = meta.append(new_row)
-    meta.to_csv(os.path.join(PROJECT_DIR, 'metadata.csv'))
+    meta.to_csv(os.path.join(LOGS_DIR, 'metadata.csv'))
     print(meta)
 
     print("Moving log to logs folder, renamed to", f'log_{id:04d}.ulg')
