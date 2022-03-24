@@ -1,8 +1,0 @@
-timestamp,nav_state_timestamp,onboard_control_sensors_present,onboard_control_sensors_enabled,onboard_control_sensors_health,nav_state,arming_state,hil_state,failsafe,system_type,system_id,component_id,vehicle_type,is_vtol,is_vtol_tailsitter,vtol_fw_permanent_stab,in_transition_mode,in_transition_to_fw,rc_signal_lost,rc_input_mode,data_link_lost,data_link_lost_counter,high_latency_data_link_lost,engine_failure,mission_failure,failure_detector_status,latest_arming_reason,latest_disarming_reason
-20638270,1458266,304545839,304152591,36110351,15,2,0,0,14,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0
-21140075,1458266,304545839,304152591,36110351,15,2,0,0,14,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0
-21459079,1458266,304545839,304152591,36110351,15,2,0,0,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-21968073,1458266,304545839,304152591,36110351,15,2,0,0,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-22474136,1458266,304545839,304152591,36110351,15,2,0,0,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-22816563,1458266,304545839,304152591,36110351,15,1,0,0,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-23318235,1458266,304545839,304152623,34013199,15,1,0,0,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2

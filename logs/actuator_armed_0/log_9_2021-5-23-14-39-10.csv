@@ -1,5 +1,0 @@
-timestamp,armed_time_ms,armed,prearmed,ready_to_arm,lockdown,manual_lockdown,force_failsafe,in_esc_calibration_mode,soft_stop
-275913289,275913,1,1,1,0,0,0,0,0
-276418213,275913,1,1,1,0,0,0,0,0
-276550205,0,0,1,1,0,0,0,0,0
-277052563,0,0,1,1,0,0,0,0,0

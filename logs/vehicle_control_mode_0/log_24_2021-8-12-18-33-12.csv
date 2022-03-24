@@ -1,6 +1,0 @@
-timestamp,flag_armed,flag_external_manual_override_ok,flag_multicopter_position_control_enabled,flag_control_manual_enabled,flag_control_auto_enabled,flag_control_offboard_enabled,flag_control_rates_enabled,flag_control_attitude_enabled,flag_control_acceleration_enabled,flag_control_velocity_enabled,flag_control_position_enabled,flag_control_altitude_enabled,flag_control_climb_rate_enabled,flag_control_termination_enabled
-1493049923,1,0,1,1,0,0,1,1,0,1,1,1,1,0
-1493557504,1,0,1,1,0,0,1,1,0,1,1,1,1,0
-1494060547,1,0,1,1,0,0,1,1,0,1,1,1,1,0
-1494516505,0,0,1,1,0,0,1,1,0,1,1,1,1,0
-1495020932,0,0,1,1,0,0,1,1,0,1,1,1,1,0

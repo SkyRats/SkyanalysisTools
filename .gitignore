@@ -3,5 +3,8 @@
 
 tmp/
 unprocessed/**
+logs/**
+logs_/
 
 !.gitkeep
+!logs/metadata.csv
